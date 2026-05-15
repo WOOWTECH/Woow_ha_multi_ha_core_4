@@ -1,7 +1,7 @@
 name: "Woow HA Core 4"
 description: "Woow Home Assistant Core instance 4"
-version: "1.0.0"
-slug: "hassception4"
+version: "1.0.1"
+slug: "woow_ha_core_4"
 init: false
 arch:
   - aarch64
